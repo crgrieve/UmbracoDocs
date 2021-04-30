@@ -31,11 +31,10 @@ Follow these steps to set up an Umbraco solution with VS Code. The benefit of us
 
 This section continues from where we left off but covers the installation and configuration of Umbraco inside your web browser when you run Umbraco for the first time.
 
-1. You will see the welcome screen. If you want a fast demo site fill in the information and click **Install!** If you want to decide the database type, or install without a starter site then click **Customize!**
 
-    ![Web Installer - Lets Get Started](images/VsCode/installer-v9.png)
+    ![Web Installer - Lets Get Started](images/VsCode/Installer-v8.PNG)
 
-1. When the installer is done you will automatically be logged into the backoffice.
+1. When the installer is done you may need to restart the application. You can then log in and access Umbraco
 
     ![Web Installer - Install Complete](images/VsCode/dashboard-v8.png)
 
